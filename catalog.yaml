@@ -1,0 +1,26 @@
+bundle: agent-forge-research
+items:
+  - id: agent/research/competitive-analyst
+    kind: agent
+    name: competitive-analyst
+    domain: research
+    license: MIT
+    description: "Use when you need to analyze direct and indirect competitors, benchmark against market leaders, or develop strategies to strengthen competitive positioning and "
+  - id: agent/research/market-researcher
+    kind: agent
+    name: market-researcher
+    domain: research
+    license: MIT
+    description: Use this agent when you need to analyze markets, understand consumer behavior, assess competitive landscapes, and size opportunities to inform business strategy
+  - id: agent/research/research-analyst
+    kind: agent
+    name: research-analyst
+    domain: research
+    license: MIT
+    description: Use this agent when you need comprehensive research across multiple sources with synthesis of findings into actionable insights, trend identification, and detai
+  - id: agent/research/trend-analyst
+    kind: agent
+    name: trend-analyst
+    domain: research
+    license: MIT
+    description: Use when analyzing emerging patterns, predicting industry shifts, or developing future scenarios to inform strategic planning and competitive positioning.
